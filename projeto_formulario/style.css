@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: darkblue;
+}
+
+#resultado {
+    margin-top: 20px;
+    padding: 15px;
+}
+
+.sucesso {
+    background-color: lightgreen;
+    border: 2px solid green;
+}
+
+.erro {
+    background-color: lightpink;
+    border: 2px solid red;
+}
